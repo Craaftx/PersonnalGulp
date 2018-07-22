@@ -1,6 +1,6 @@
 # Personnal Gulp Workflow
 
-Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks, create a better developpement environnement and become like [this](https://coub.com/view/17c0vx)
+Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks, create a better developpement environnement and become like [this](https://coub.com/view/17c0vx){:target="_blank"}
 
 ### FEATURES :
 - gulp-less: **Transform LESS to CSS**
