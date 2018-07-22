@@ -29,7 +29,7 @@ Here is it ! This workflow **Gulp** help front developer to make some repetitive
 │             ├── /layouts             // HTML Layouts
 │             └── .html_files          // HTML Files are created in pages directory
 │
-└── /dist      // Production project deposed here
+└── /dist                              // Auto-Created. Production project deposed here
 ```
 
 ### LAUNCH ?
