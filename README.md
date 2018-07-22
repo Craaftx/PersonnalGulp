@@ -2,7 +2,7 @@
 
 Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks and create a better developpement environnement :
 
-####FEATURES :
+#### FEATURES :
 > gulp-less: **Transform LESS to CSS**
 > gulp-autoprefixer: **Prefix CSS**
 > gulp-clean-css: **Minify CSS**
@@ -16,7 +16,7 @@ Here is it ! This workflow **Gulp** help front developer to make some repetitive
 > gulp-sync: **Allow sync tasks**
 
 <br>
-####FILE STRUCTURE :
+#### FILE STRUCTURE :
 ```
 /root
 ├── /src
@@ -34,13 +34,13 @@ Here is it ! This workflow **Gulp** help front developer to make some repetitive
 ```
 
 <br>
-####REALTIME ?
+#### REALTIME ?
 You can use `gulp watch` who will continuously monitor all changes made to the LESS and HTML files and automatically launch the corresponding tasks in real time.
 
 In addition, I use Visual Studio Code with the [Live Server](https://github.com/ritwickdey/vscode-live-server)  extension to have real-time changes on my browser when I develop.
 
 <br>
-####TODO
+#### TODO
 - Add images injection like CSS and JS files
 - Increase realtime fonctionnality
 - Be like [this](https://coub.com/view/17c0vx)
