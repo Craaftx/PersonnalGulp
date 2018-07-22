@@ -20,12 +20,12 @@ Here is it ! This workflow **Gulp** help front developer to make some repetitive
 /root
 ├── /src
 │     ├── /assets
-│     │      ├── /css                   // LESS Files
+│     │      ├── /css                  // LESS Files
 │     │      ├── /img                  // The images that will be optimized
-│     │      ├── /js                      // Javascript Files
-│     │      └── /vendor             // Vendors like Bootstrap
+│     │      ├── /js                   // Javascript Files
+│     │      └── /vendor               // Vendors like Bootstrap
 │     └── /pages
-│             ├── /components    // HTML Components (ex : navbar)
+│             ├── /components          // HTML Components (ex : navbar)
 │             ├── /layouts             // HTML Layouts
 │             └── .html_files          // HTML Files are created in pages directory
 │
