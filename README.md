@@ -1,6 +1,6 @@
 # Personnal Gulp Workflow
 
-Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks and create a better developpement environnement :
+Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks, create a better developpement environnement and become like [this](https://coub.com/view/17c0vx)
 
 ### FEATURES :
 - gulp-less: **Transform LESS to CSS**
@@ -40,7 +40,6 @@ In addition, I use Visual Studio Code with the [Live Server](https://github.com/
 ### TODO
 - Add images injection like CSS and JS files
 - Increase realtime fonctionnality
-- Be like [this](https://coub.com/view/17c0vx)
 
 ## Built With
 * [Gulp](https://gulpjs.com/) - Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. 
