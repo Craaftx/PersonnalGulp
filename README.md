@@ -32,6 +32,9 @@ Here is it ! This workflow **Gulp** help front developer to make some repetitive
 └── /dist      // Production project deposed here
 ```
 
+### LAUNCH ?
+You can use `gulp prod` to create a production build easily.
+
 ### REALTIME ?
 You can use `gulp watch` who will continuously monitor all changes made to the LESS and HTML files and automatically launch the corresponding tasks in real time.
 
