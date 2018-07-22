@@ -3,17 +3,17 @@
 Here is it ! This workflow **Gulp** help front developer to make some repetitive tasks and create a better developpement environnement :
 
 #### FEATURES :
-> gulp-less: **Transform LESS to CSS**
-> gulp-autoprefixer: **Prefix CSS**
-> gulp-clean-css: **Minify CSS**
-> gulp-rename: **Rename file with .min**
-> gulp-uglify: **Minify Javascript**
-> gulp-concat: **Concat files**
-> gulp-imagemin: **Optimize images**
-> gulp-html-extend: **Allow to create HTML Layout like Pug or Mustache**
-> gulp-inject: **Used to inject CSS and JS in HTML layout**
-> gulp-clean: **Used to clean tmp files**
-> gulp-sync: **Allow sync tasks**
+- gulp-less: **Transform LESS to CSS**
+- gulp-autoprefixer: **Prefix CSS**
+- gulp-clean-css: **Minify CSS**
+- gulp-rename: **Rename file with .min**
+- gulp-uglify: **Minify Javascript**
+- gulp-concat: **Concat files**
+- gulp-imagemin: **Optimize images**
+- gulp-html-extend: **Allow to create HTML Layout like Pug or Mustache**
+- gulp-inject: **Used to inject CSS and JS in HTML layout**
+- gulp-clean: **Used to clean tmp files**
+- gulp-sync: **Allow sync tasks**
 
 <br>
 #### FILE STRUCTURE :
