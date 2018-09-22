@@ -54,7 +54,7 @@ gulp.task('js', function () {
 
 // Task "inject" = Inject CSS & JS files to HTML Layout
 gulp.task('inject', function () {
-    var target = gulp.src(source + '/pages/layouts/layout_main.html');
+    var target = gulp.src(source + '/pages/layouts/layout*.html');
     // It's not necessary to read the files (will speed up things), we're only after their paths:
     var sources = gulp.src(primaryFiles.concat(vendorFiles), { read: false });
     return target.pipe(inject(sources, { removeTags: true }))
